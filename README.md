@@ -1,1 +1,1 @@
-# java-spring-demo-app
+# java-spring-boot-demo-app
